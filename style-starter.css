@@ -9826,9 +9826,10 @@ h3.global-white {
   color: #ffff; }
 
 .w3l-main-banner .banner-info p {
+
   font-size: 22px;
   font-weight: 600;
-  color: #000000;
+  color: #ffff;
   border-bottom: 3px solid var(--primary-color);
   display: inline-block;
   line-height: 1; }
